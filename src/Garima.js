@@ -5,7 +5,7 @@ function MyResume() {
     return(
         <div className="name__resume">
             <div className="name__contact">
-
+for
             </div>
             <div className="name__skills">
 
